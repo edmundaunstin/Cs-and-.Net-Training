@@ -1,0 +1,6 @@
+C:\Application\ConsoleApplication_Example\ConsoleApplication_Example\bin\Debug\ConsoleApplication_Example.exe.config
+C:\Application\ConsoleApplication_Example\ConsoleApplication_Example\obj\Debug\ConsoleApplication_Example.csprojResolveAssemblyReference.cache
+C:\Application\ConsoleApplication_Example\ConsoleApplication_Example\bin\Debug\ConsoleApplication_Example.exe
+C:\Application\ConsoleApplication_Example\ConsoleApplication_Example\bin\Debug\ConsoleApplication_Example.pdb
+C:\Application\ConsoleApplication_Example\ConsoleApplication_Example\obj\Debug\ConsoleApplication_Example.exe
+C:\Application\ConsoleApplication_Example\ConsoleApplication_Example\obj\Debug\ConsoleApplication_Example.pdb
