@@ -11,7 +11,7 @@ namespace ConsoleApplication_Example
     {
         static void Main(string[] args)
         {
-            string newvalue = "India Pvt. Ltd.";
+            /*string newvalue = "India Pvt. Ltd.";
             Console.Write("ENTER YOUR COMPANY NAME :");
             String comname = Console.ReadLine();
             Console.WriteLine("NAME OF YOUR COMPANY :"+comname);  // concatination method
@@ -22,10 +22,20 @@ namespace ConsoleApplication_Example
             o1.name = Console.ReadLine();
             o1.id = Convert.ToInt32(Console.ReadLine());
             Console.Write("NAME OF YOUR COMPANY :{0} {1}", o1.name, o1.id);
+            
+            int[] a = new int[] { 1, 2, 3, 4 };*/
+
+
+
+
+            DelegateClass de = new DelegateClass();
+            string type = Console.ReadLine();
+            int s = Convert.ToInt32(Console.ReadLine());
+            int d = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(de.operationType(type).Invoke(s, d));
+
             Console.Read();
-            int[] a = new int[] { 1, 2, 3, 4 };
-            
-            
+
         }
     }
     public class GetValues
